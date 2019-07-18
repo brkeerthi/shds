@@ -1,0 +1,11 @@
+.test {
+  display: inline-block;
+  margin: 2em auto;
+  border: 2px solid #000;
+  font-size: 2em;
+}
+
+.primary11111111 {
+  color: '#f84354';
+  border: 2px solid red;
+}
